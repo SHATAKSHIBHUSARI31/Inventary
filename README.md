@@ -103,11 +103,14 @@ Login
   <img src="frontend/src/assets/LoginPAge.png" width="80%" />
 </p>
 
-Dashboard 
+Dashboard for normal users
 <p align="center">
   <img src="frontend/src/assets/Dashboard-for-normal-users.png" width="80%" />
 </p>
-
+Manage Users and Labs(New functionality)
+<p align="center">
+  <img src="frontend/src/assets/Manage-users.png" width="80%" />
+</p>
 ---
 ## ⚙️ Local Development
 
