@@ -107,12 +107,12 @@ Dashboard for normal (Lab Technicians and Manufacturing Engineers)
 <p align="center">
   <img src="frontend/src/assets/Dashboard-for-normal-users.png" width="80%" />
 </p>
-Manage Users and Labs(New functionality **only for Admin**)
+Manage Users and Labs(New functionality only for Admin)
 <p align="center">
   <img src="frontend/src/assets/Manage-users.png" width="80%" />
 </p>
 ---
-## ⚙️ Local Development
+ ⚙️ Local Development
 
 ### 1. Frontend Setup
 
