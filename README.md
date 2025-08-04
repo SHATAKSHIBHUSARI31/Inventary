@@ -144,9 +144,8 @@ npm run dev
 
 ## 📈 Future Enhancements
 
-* Email alerts via Nodemailer
+* Email alerts 
 * Barcode scanning for stock tracking
-* CSV/PDF export
 * AI-based demand forecasting
 * Native mobile app integration
 
