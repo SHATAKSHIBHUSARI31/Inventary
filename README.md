@@ -100,7 +100,7 @@ Built with a mobile-first approach and tested for real-world use in lab environm
 ## Screenshots
 Dashboard 
 <p align="center">
-  <img src="./assets/Dashboard-for-normal-users.png" width="80%" />
+  <img src="frontend/src/assets/Dashboard-for-normal-users.png" width="80%" />
 </p>
 
 ---
