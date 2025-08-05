@@ -150,12 +150,3 @@ npm run dev
 * Native mobile app integration
 
 ---
-
-## 👨‍💼 Contributing
-
-Contributions are welcome! Feel free to open issues, fork the repo, and submit PRs.
-
-
----
-
-> ⚡ Built with ❤️ to empower labs with smarter inventory control.
