@@ -94,7 +94,7 @@ Built with a mobile-first approach and tested for real-world use in lab environm
 
 
 ## 📸 Pages Overview
-> Images below demonstrate various features of the app
+> Images below demonstrate various features of the app<br>
 Login
 <p align="center">
   <img src="frontend/src/assets/LoginPAge.png" width="80%" />
