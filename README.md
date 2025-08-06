@@ -72,18 +72,14 @@ Built with a mobile-first approach and tested for real-world use in lab environm
 | Layer          | Technologies                                                                                   |
 | -------------- | ---------------------------------------------------------------------------------------------- |
 | **Frontend**   | React.js, TypeScript, Redux Toolkit, Ant Design, Recharts, SweetAlert2, React Router, Tailwind |
-| **Backend**    | Node.js, Express.js, TypeScript, Zod, MongoDB, Mongoose                                        |
+| **Backend**    | Node.js, Express.js, MongoDB, Mongoose                                                         |
 | **Auth**       | JWT (JSON Web Tokens)                                                                          |
-| **Deployment** | Vercel (Frontend), Render/Heroku (Backend)                                                     |
-| **Dev Tools**  | GitHub, VSCode, Postman, MongoDB Atlas                                                         |
+| **Dev Tools**  | GitHub, VSCode, Postman, MongoDB                                                               |
 
----
+--- 
 
-## 📸 Pages Overview
 
-> Images below demonstrate various features of the app
 
----
 
 ## 🧪 Sample Workflow
 
@@ -97,7 +93,8 @@ Built with a mobile-first approach and tested for real-world use in lab environm
 ---
 
 
-## Screenshots
+## 📸 Pages Overview
+> Images below demonstrate various features of the app
 Login
 <p align="center">
   <img src="frontend/src/assets/LoginPAge.png" width="80%" />
